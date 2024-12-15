@@ -1,4 +1,5 @@
-## Protocol for phase 3
+## INTSEC Phase 3
+Here are some ways to exploit weaknesses in Passoire, mostly by uploading .php scripts.
 
 [image name] [group name]
 
