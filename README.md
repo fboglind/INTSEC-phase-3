@@ -1,5 +1,8 @@
 ## INTSEC Phase 3
-Here are some ways to exploit weaknesses in Passoire, mostly by uploading .php scripts.
+
+
+
+Here are some ways to exploit weaknesses in Passoire, mostly by uploading .php scripts. The code for all the scripts are in this document (as well as in files in the repo)
 
 [image name] [group name]
 
