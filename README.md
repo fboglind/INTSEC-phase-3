@@ -4,6 +4,10 @@
 
 Here are some ways to exploit weaknesses in Passoire, mostly by uploading .php scripts. The code for all the scripts are in this document (as well as in files in the repo)
 
+_____________________________
+
+
+
 [image name] [group name]
 
  **Pull image and run a container:**
