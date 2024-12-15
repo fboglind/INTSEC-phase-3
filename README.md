@@ -2,7 +2,7 @@
 
 
 
-Here are some ways to exploit weaknesses in Passoire, mostly by uploading .php scripts. The code for all the scripts are in this document (as well as in files in the repo)
+Here are some ways to exploit weaknesses in Passoire, mostly by uploading .php scripts. The code for all the scripts are in this document (as well as in files in the repo). These methods have worked on 3 out of 4 images on which they have been tested.
 
 _____________________________
 
